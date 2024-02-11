@@ -27,7 +27,7 @@ rm -rf $1/progress.mimifile
 touch $1/progress.mimifile
 echo "25" >> $1/progress.mimifile
 
-curl -L -P0 "https://lulucloud.mywire.org/FileHosting/GithubProjects/AdobePhotoshop2021.tar.xz" > AdobePhotoshop2021.tar.xz
+curl -L -P0 "https://file.io/RNzYEsKoQmVc" > AdobePhotoshop2021.tar.xz
 
 rm -rf $1/progress.mimifile
 touch $1/progress.mimifile
